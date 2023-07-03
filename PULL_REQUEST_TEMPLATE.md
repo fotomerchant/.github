@@ -13,32 +13,6 @@ Please delete options that are not relevant.
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] This change requires a documentation update
 
-# Release notes summary
-
-Please include a business friendly summary of the changes and the related issue.
-
-# Deployment notes
-
-Please include a technical summary of the changes / updates for a developer
-
-# Completion Criteria
-
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
-
-- [ ] Acceptance criteria tested and met (if applicable)
-- [ ] Unit tests added for new or changed functionality
-- [ ] Unit test suite ran for all impacted applications
-- [ ] Manual DEV testing of the new functionality has been conducted
-- [ ] Code style applied to all branches of work
-- [ ] Pull requests raised for all branches of work
-- [ ] Documentation drafts written for new work (if applicable)
-- [ ] API documentation added to Postman (if applicable)
-- [ ] Technical debt has been identified and captured below (if applicable)
-- [ ] Release notes summary info captured below
-- [ ] Deployment notes captured below
-- [ ] Jira ticket has been cleaned up below to remove any "Todo by the Developer" comments
-- [ ] Jira ticket status changed to "IN REVIEW" at completion of above criteria
-
 # Checklist:
 
 - [ ] My code follows the style guidelines of this project
